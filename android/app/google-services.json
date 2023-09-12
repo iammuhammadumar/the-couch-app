@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "485733027023",
+    "project_id": "the-couch-df06c",
+    "storage_bucket": "the-couch-df06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485733027023:android:c98e0fe7b1892932a2fbba",
+        "android_client_info": {
+          "package_name": "com.thecouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485733027023-fl5adk41iqt2s6m67u0hl54l8cqkld82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDyRDeOJFRHbTGV4t3JYOXYsLlhqZ1yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485733027023-fl5adk41iqt2s6m67u0hl54l8cqkld82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485733027023-nkh2up9q7utrv9neou981h22e4a2989f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecouch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
